@@ -1,9 +1,0 @@
-neurónový strojový preklad
-
-Strojový preklad je súčasťou oblasti počítačovej lingvistiky, ktorý sa zameriava na preklad textov z jedného jazyka do druhého. Vďaka sile neurónových sietí sa Neurónový strojový preklad stal najsilnejším algoritmom na vykonávanie tejto úlohy. Napriek tomu, že Google Translate je lídrom v neurónovom strojovom preklade, tak aj iné spoločnosti začali využívať tento princíp. Bakalárska práca sa zameriava na predstavenie princípu Neurónového strojového prekladu a jeho využitie v oblasti počítačovej lingvistiky.
-Cieľ práce: Cieľom práce je predstaviť problematiku strojového prekladu s využitím neurónových sietí.
-Charakter práce: prehľadový.
-Požiadavky na obsah podľa charakteru práce (nemyslí sa tým šablóna, tá je daná bez ohľadu na charakter práce): minimálny počet zdrojov (> 40 pre Bc., > 80 pre Mgr.), kritické zhodnotenie v diskusii, resp. v samostatnej kapitole.
-Požiadavky na vedomosti a zručnosti študenta: dobrá znalosť anglického jazyka, dobrá znalosť vo vyhľadávaní a spracovávaní informácií, analytické myslenie.
-
-2021
